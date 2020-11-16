@@ -1,0 +1,20 @@
+{
+    "name": "itdeveloperpl/strhelper",
+    "description": "String helper library",
+    "type": "library",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Bartosz Bielecki"
+        }
+    ],    
+    "require": {
+        "ext-mbstring": "*",
+        "php": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "itdeveloperpl\\strhelper\\": "src/strhelper"
+        }
+    }
+}
