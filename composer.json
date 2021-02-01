@@ -2,7 +2,7 @@
     "name": "itdeveloperpl/strhelper",
     "description": "String helper library",
     "type": "library",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "authors": [
         {
             "name": "Bartosz Bielecki"
